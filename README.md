@@ -20,7 +20,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Intake
 - Assignment and Communication
-- Working the Issue
+- Working the Problem
 - Resolution
 
 <h2>Assigning Tickets </h2>
@@ -32,7 +32,7 @@ After reviewing tickets in the queue, the system administrator can assign the us
 </p>
 <br />
 
-<h2>Working the Issue </h2>
+<h2>Working the Problem </h2>
 <p>
 <img src="https://i.imgur.com/yfbjM9L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
