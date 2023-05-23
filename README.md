@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Assigning Tickets </h2>
 <p>
-<img src="https://imgur.com/rm088vz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gCy9Oq8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After reviewing tickets in the queue, the system administrator can assign the user that they would like to work and resolve the ticket. After logging in as an administrator, the administrator can go to the ticket, select "Unassigned", and Assign the appropiate user.
@@ -34,7 +34,7 @@ After reviewing tickets in the queue, the system administrator can assign the us
 
 <h2>Working the Issue </h2>
 <p>
-<img src="https://imgur.com/VFxwYme.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yfbjM9L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After assigning the ticket, the user can go into the ticket and begin to work the issues. The user is able to review the previous edits of the ticket and whom made the edits. Next, the assigned user can work the ticket and resolve.
